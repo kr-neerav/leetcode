@@ -24,4 +24,6 @@ object Solution {
     nums(i) = nums(j)
     nums(j) = nums(i)
   }
+
 }
+
