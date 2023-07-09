@@ -2,7 +2,7 @@ package com.scala.leetcode.problem0035
 import org.scalatest.flatspec._
 import org.scalatest.matchers.should._
 
-class problem0028Test extends AnyFlatSpec with Matchers{
+class problem0035Test extends AnyFlatSpec with Matchers{
   "Search Insert" should "return an index between 0 and length -1" in  {
     //arrange 
     val nums = Array(1,2,3,4,5)
